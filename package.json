@@ -2,7 +2,7 @@
   "name": "parchment",
   "version": "1.0.0",
   "description": "parchment is a simple, elegant desktop app for recording daily gratitude entries. Each day, write one thing you're grateful for, add an emoji, and let Parchment store your moments of gratitude with timestamps. Built with Electron, Node.js, and love, this app is perfect for anyone looking to practice mindfulness in a beautiful, minimalist way.",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,4 +22,5 @@
   "devDependencies": {
     "electron": "^34.1.1"
   }
+  
 }
