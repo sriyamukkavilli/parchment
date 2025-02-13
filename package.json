@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/sriyamukkavilli/parchment#readme",
   "devDependencies": {
-    "electron": "^34.1.1"
+    "electron": "^34.2.0"
   }
-  
 }
